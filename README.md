@@ -17,4 +17,4 @@ npm i dependencies in package.json
 
 ## Walkthrough Video
 
-[Insomnia Walkthrough Video]()
+[Insomnia Walkthrough Video](https://drive.google.com/file/d/11KnwcTmjoJgG-woKs089AOfnX5lz0R7o/view)
