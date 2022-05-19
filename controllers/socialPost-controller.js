@@ -89,7 +89,7 @@ const socialPostController = {
 			.then((dbUserData) => {
 				console.log('userdata: ' , dbUserData)
 				if (!dbUserData) {
-					res.status(404).json({ message: 'There is no user with this id.' })
+					res.status(404).json({ message: 'There is no socialPost with this id.' })
 					return
 				}
 				res.json(dbUserData)
